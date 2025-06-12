@@ -1,0 +1,15 @@
+D:\abx_exchange_server\AbxClientApp\bin\Debug\net6.0\AbxClientApp.exe
+D:\abx_exchange_server\AbxClientApp\bin\Debug\net6.0\AbxClientApp.deps.json
+D:\abx_exchange_server\AbxClientApp\bin\Debug\net6.0\AbxClientApp.runtimeconfig.json
+D:\abx_exchange_server\AbxClientApp\bin\Debug\net6.0\AbxClientApp.dll
+D:\abx_exchange_server\AbxClientApp\bin\Debug\net6.0\AbxClientApp.pdb
+D:\abx_exchange_server\AbxClientApp\obj\Debug\net6.0\AbxClientApp.csproj.AssemblyReference.cache
+D:\abx_exchange_server\AbxClientApp\obj\Debug\net6.0\AbxClientApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\abx_exchange_server\AbxClientApp\obj\Debug\net6.0\AbxClientApp.AssemblyInfoInputs.cache
+D:\abx_exchange_server\AbxClientApp\obj\Debug\net6.0\AbxClientApp.AssemblyInfo.cs
+D:\abx_exchange_server\AbxClientApp\obj\Debug\net6.0\AbxClientApp.csproj.CoreCompileInputs.cache
+D:\abx_exchange_server\AbxClientApp\obj\Debug\net6.0\AbxClientApp.dll
+D:\abx_exchange_server\AbxClientApp\obj\Debug\net6.0\refint\AbxClientApp.dll
+D:\abx_exchange_server\AbxClientApp\obj\Debug\net6.0\AbxClientApp.pdb
+D:\abx_exchange_server\AbxClientApp\obj\Debug\net6.0\AbxClientApp.genruntimeconfig.cache
+D:\abx_exchange_server\AbxClientApp\obj\Debug\net6.0\ref\AbxClientApp.dll
