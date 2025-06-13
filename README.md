@@ -27,7 +27,7 @@ This is a C# console client for interacting with the ABX Mock Exchange Server. T
 
 ### 1. Clone or Download the Project
 
-Place `AbxClient.cs` in the `AbxClientApp` folder. The solution file should be named `AbxExchangeClient.sln`.
+Clone or download the project.
 
 ### 2. Start the ABX Mock Exchange Server
 
